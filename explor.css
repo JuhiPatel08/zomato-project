@@ -1,0 +1,36 @@
+
+#explor {
+    font-family: Arial, sans-serif;
+    color: #1c1c1c;
+    max-width: 100%;
+    margin: 0 auto; 
+}
+
+#popular h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #1c1c1c;
+}
+
+
+.option {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    cursor: pointer;
+}
+
+.option h5 {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 0;
+}
+
+.option i {
+    font-size: 14px;
+    color: #1c1c1c;
+}
